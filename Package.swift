@@ -60,7 +60,7 @@ let package = Package(
                    ),
                    .binaryTarget(
                      name: "OneSignalCore",
-                     url: "https://github.com/lizarge/OneSignal-iOS-SDK_RKModule/raw/master/iOS_SDK/OneSignalSDK/OneSignal_Core/OneSignalCore.xcframework.zip",
+                     url: "https://github.com/lizarge/fdg/raw/main/OneSignalCore.xcframework.zip",
                      checksum: "828d54463c05ebaf4c3e601961d70317e2ed32bcc40d5b6f4e2a99fe123f654b"
                    )
     ]
