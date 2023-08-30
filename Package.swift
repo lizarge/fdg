@@ -46,22 +46,22 @@ let package = Package(
             .binaryTarget(
                      name: "OneSignal",
                      url: "https://github.com/lizarge/fdg/raw/main/OneSignal.xcframework.zip",
-                     checksum: "9d1626938abc326a56cedef75283b12c1837d53753ee8448ed101f8d140b9268"
+                     checksum: "982c3ce06f8f4c564ae07638fd115b08725f47b58f512418b7d1fb938980ce1e"
                    ),
                    .binaryTarget(
                      name: "OneSignalExtension",
                      url: "https://github.com/lizarge/fdg/raw/main/OneSignalExtension.xcframework.zip",
-                     checksum: "8beda0cba06596f41def34991b78e94d19e6d6bb6fbd3d1cc2735d924e44537c"
+                     checksum: "ef0a97a876bc041fb39fb4b0346e93a8b3f3e5608683b7afce9339ae2ed62d44"
                    ),
                    .binaryTarget(
                      name: "OneSignalOutcomes",
                      url: "https://github.com/lizarge/fdg/raw/main/OneSignalOutcomes.xcframework.zip",
-                     checksum: "44e6f307b65bed5481885e4ab34e0a1841b9adefd6f26d858cc6b69abfa6f756"
+                     checksum: "6a6a27c7dc9dcfbf1c00ab3c529f43230226dcccd0f3ea00afc73d2d7d9ec01e"
                    ),
                    .binaryTarget(
                      name: "OneSignalCore",
                      url: "https://github.com/lizarge/fdg/raw/main/OneSignalCore.xcframework.zip",
-                     checksum: "be1c826140fdb0327187995b0c4741806e3cfd7932b6e34c753d105b143668f5"
+                     checksum: "63854432330f2763646d4622bb3a9d4f709538c49728b94fb19803d005492101"
                    )
     ]
 )
